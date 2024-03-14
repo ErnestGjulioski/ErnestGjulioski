@@ -10,8 +10,9 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 #
- ### 📊 Stats
+ ### 📊 My Stats:
 
-![Ernest's Github stats] https://github-readme-streak-stats.herokuapp.com/?user=your-ErnestGjulioski
-
+![Ernest's Github stats] (https://github-readme-streak-stats.herokuapp.com/?user=your-ErnestGjulioski)
+ 
+ <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ErnestGjulioski&theme=gruvbox&border_radius=4.5) -->
 #
