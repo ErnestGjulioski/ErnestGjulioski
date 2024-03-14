@@ -12,7 +12,5 @@
 #
  ### 📊 My Stats:
 
-![Ernest's Github stats] (https://github-readme-streak-stats.herokuapp.com/?user=your-ErnestGjulioski)
- 
- <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ErnestGjulioski&theme=gruvbox&border_radius=4.5) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ErnestGjulioski&theme=prussian&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 #
