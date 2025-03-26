@@ -1,20 +1,26 @@
-# ErnestGjulioski
- 
- **Software engineer in making**
+# Ernest Gjulioski
 
- I'm an student of the Hochschule Esslingen, studing software engineering trying to make life easier with my projects. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  
+**Software Engineer in Ausbildung**  
 
- ### 🧰 Languages and Tools
+Ich bin Student an der Hochschule Esslingen und studiere Software Engineering. Mein Ziel ist es, mit meinen Projekten das Leben einfacher zu machen. Alle meine Coding-Projekte entstehen von Grund auf – von der Planung und dem Design bis hin zur Lösung realer Probleme durch Code.  
+
+---
+
+### 🧰 Sprachen und Tools  
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img align="left" alt="NoSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 
+<br clear="left"/>
 
-#
- ### 📊 My Stats:
+---
+
+### 📊 Meine Statistiken  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ErnestGjulioski&theme=prussian&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-#
