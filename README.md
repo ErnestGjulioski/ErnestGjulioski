@@ -2,7 +2,7 @@
 
 **Software Engineer in Ausbildung**  
 
-Ich bin Student an der Hochschule Esslingen und studiere Software Engineering. Mein Ziel ist es, mit meinen Projekten das Leben einfacher zu machen. Alle meine Coding-Projekte entstehen von Grund auf – von der Planung und dem Design bis hin zur Lösung realer Probleme durch Code.  
+Ich bin Student an der Hochschule Esslingen und studiere Softwaretechnik. 
 
 ---
 
