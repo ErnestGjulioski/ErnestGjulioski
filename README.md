@@ -2,7 +2,7 @@
 
 **Software Engineer in Ausbildung**  
 
-Ich bin Student an der Hochschule Esslingen und studiere Softwaretechnik und liebe es neu Sachen zu lernen die mir das leben erleichtert.
+Ich bin Student an der Hochschule Esslingen und studiere Softwaretechnik.
 
 ---
 
